@@ -8,9 +8,9 @@
 
 ## 2023.07.04
 
-- [VScommand](https://github.com/goldtmi/TIL/blob/main/Command.md)
-- [UnixCommand](https://github.com/goldtmi/TIL/blob/main/UnixCommand.md)
-- [GitCommand](https://github.com/goldtmi/TIL/blob/main/Git%20Command.md)
+- [VScommand](https://github.com/goldtmi/TIL/blob/main/command/Command.md)
+- [UnixCommand](https://github.com/goldtmi/TIL/blob/main/command/UnixCommand.md)
+- [GitCommand](https://github.com/goldtmi/TIL/blob/main/command/Git%20Command.md)
 
 - vs code Extenstion
 

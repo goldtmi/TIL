@@ -1,0 +1,82 @@
+/* style.css */
+
+/* 전체 페이지 스타일 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* 헤더 스타일 */
+  header {
+    background-color: #03C75A;
+    padding: 10px;
+    color: #FFF;
+  }
+  
+  .logo img {
+    height: 40px;
+    vertical-align: middle;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #FFF;
+    text-decoration: none;
+  }
+  
+  /* 메인 섹션 스타일 */
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .rankings li {
+    margin-bottom: 5px;
+  }
+  
+  .news-list li {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  .news-list li a {
+    color: #000;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .news-list li img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+  
+  .news-list li .news-title {
+    font-weight: bold;
+  }
+  
+  /* 푸터 스타일 */
+  footer {
+    background-color: #EAEAEA;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    color: #666;
+  }
+  
